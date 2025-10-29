@@ -1,0 +1,17 @@
+{
+    "name": "electron-poc-macos-layered-tray-icons",
+    "version": "1.0.0",
+    "description": "Demo showcasing layered tray icons on macos.",
+    "main": "main.js",
+    "scripts": {
+        "start": "~/source/electron/src/out/Release/Electron.app/Contents/MacOS/Electron ."
+    },
+    "keywords": [
+        "electron",
+        "tray",
+        "template-image",
+        "macos"
+    ],
+    "author": "",
+    "license": "MIT"
+}
