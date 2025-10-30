@@ -36,8 +36,8 @@ Handling different pixel densities with separate 1x and 2x image representations
 
 | Resolution | Icon Asset | Type | Description |
 |------------|------------|------|-------------|
-| **1x** | ![Apple Template 1x](icons/apple-with-indicator-reps/apple-repsTemplate.png) | Template | Base apple for standard displays (has extra red corner for demo differentiation) |
-| **1x** | ![Red Dot 1x](icons/apple-with-indicator-reps/apple-red-dot-reps.png) | Color | Red indicator for standard displays (has extra black corner for demo differentiation) |
+| **1x** | ![Apple Template 1x](icons/apple-with-indicator-reps/apple-repsTemplate.png) | Template | Base apple for standard displays (has extra black corner for demo differentiation) |
+| **1x** | ![Red Dot 1x](icons/apple-with-indicator-reps/apple-red-dot-reps.png) | Color | Red indicator for standard displays (has extra red corner for demo differentiation) |
 | **2x** | ![Apple Template 2x](icons/apple-with-indicator-reps/apple-repsTemplate@2x.png) | Template | Base apple for retina displays |
 | **2x** | ![Red Dot 2x](icons/apple-with-indicator-reps/apple-red-dot-reps@2x.png) | Color | Red indicator for retina displays |
 
@@ -65,8 +65,8 @@ Going complex with **5 layers** - mix of template and color elements.
 |-------|------------|------|-------------|
 | 1 | ![Apple Body](icons/apple-complex/apple-body-Template@2x.png) | Template | Main apple body |
 | 2 | ![Apple Leaf](icons/apple-complex/apple-leaf-Template@2x.png) | Template | Apple leaf |
-| 3 | ![Red Dot](icons/apple-complex/red-dot@2x.png) | Color | Red status indicator |
-| 4 | ![Blue Dot](icons/apple-complex/blue-dot@2x.png) | Color | Blue status indicator |
+| 3 | ![Red Dot](icons/apple-complex/red-dot@2x.png) | Color | Red status indicator (50% alpha) |
+| 4 | ![Blue Dot](icons/apple-complex/blue-dot@2x.png) | Color | Blue status indicator (50% alpha) |
 | 5 | ![Bell Peppers](icons/apple-complex/bellpeppers@2x.png) | Color | Additional color overlay (44x100px - intentionally oversized for demo) |
 
 **Result:**
